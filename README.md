@@ -1,4 +1,3 @@
-```markdown
 # Tech-Curve-AI-Task
 
 This project is a assisment project for the Tech-Curve AI Task.
