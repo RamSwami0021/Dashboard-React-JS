@@ -9,6 +9,7 @@
     height: 50px;
     width: 100vw;
     margin-left: -30px;
+    margin-top: 20px;
     float:right;
     display: flex;
     justify-content:space-around;
